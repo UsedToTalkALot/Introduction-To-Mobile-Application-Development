@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "789406477057",
+    "firebase_url": "https://walletwatch-4cd8e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "walletwatch-4cd8e",
+    "storage_bucket": "walletwatch-4cd8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789406477057:android:ff022a80e234a9ae33c900",
+        "android_client_info": {
+          "package_name": "com.example.walletwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARFxmci4b_1LcKJH2m76qSS0XbK8KEXbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
